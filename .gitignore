@@ -1,0 +1,11 @@
+.DS_store
+Thumbs.db
+_old
+_backup
+img/Thumbs.db
+img/.DS_Store
+index.html_old
+tmp/
+NeuroStartUp.png_backup
+
+
